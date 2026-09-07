@@ -14,7 +14,7 @@ Fisheye cameras provide a wide field of view, but introduce strong radial distor
 
 ![Appearance changes in the CapFiCA data](assets/appearance-change.png)
 
-## End-to-end pipeline
+## Complete inference pipeline
 
 1. Project the fisheye frame into overlapping gnomonic views.
 2. Detect pedestrians with YOLOv9e and back-project detections into the fisheye image.
