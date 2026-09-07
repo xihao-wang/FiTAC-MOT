@@ -68,6 +68,12 @@ Across six WEPDTOF test scenes, FiTAC-MOT reached **46.573 HOTA**, **55.617 AssA
 
 ## Qualitative results
 
+### Demo
+
+<p align="center">
+  <img src="assets/fitac-mot-demo.gif" alt="FiTAC-MOT fisheye multi-object tracking demo">
+</p>
+
 The examples below show identity continuity across fisheye distortion, crossings, occlusion, and appearance changes.
 
 | Example 1 | Example 2 |
